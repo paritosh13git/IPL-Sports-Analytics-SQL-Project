@@ -1,0 +1,21 @@
+IPL-Sports-Analytics-SQL-Project/
+│
+├── README.md
+├── data/
+│   ├── IPL_matches.csv
+│   └── IPL_Ball.csv
+│
+├── sql/
+│   ├── 01_create_tables.sql
+│   ├── 02_import_data.sql
+│   ├── 03_basic_queries.sql
+│   ├── 04_deliveries_v02.sql
+│   ├── 05_deliveries_v03.sql
+│   ├── 06_deliveries_v04.sql
+│   ├── 07_deliveries_v05.sql
+│   └── 08_analysis_queries.sql
+│
+└── powerbi/
+    ├── model_description.md
+    ├── dax_measures.md
+    └── dashboard_design.md
